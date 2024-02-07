@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**daniescos/daniescos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Daniel Escosteguy! All good?
 
-Here are some ideas to get you started:
+I am a **production engineer** 🎓, focused on processes management and currently working as manager of Quality and Quality Management Systems in the defense and telecommunications industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data engineering enthusiast and on the process of migrating to this area!
+
+ - Quality and QMS manager at RFCOM sistemas
+ - **in love** with my family 😍
+ - father of 3 dogs (Swiss sheppard) 🐺 🐺 🐺
+
+
+**KNOWLEDGE IN**:
+
+ - Quality tools 🏅
+ 
+ - Agile tools 📈
+ 
+ - Management and business intelligence
+ 
+ - Power BI 📊
+ 
+ - Python <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+ 
+**CURRENTLY STUDING:**
+
+ - SQL <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+ 
+ - Pandas <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+
+ - Microsoft Azure <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />

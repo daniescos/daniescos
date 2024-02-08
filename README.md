@@ -8,7 +8,7 @@ Data engineering enthusiast and on the process of migrating to this area!
 
  - Quality and QMS manager at RFCOM sistemas in Brazil 🇧🇷
  - **in love** with my family 😍
- - father of 3 dogs (Swiss sheppard) 🐺 🐺 🐺
+ - guardian of 3 dogs (Swiss sheppard) 🐺 🐺 🐺
 
 
 **KNOWLEDGE IN**:

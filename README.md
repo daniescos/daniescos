@@ -6,7 +6,7 @@ I am a **production engineer** 🎓, focused on processes management and curretl
 
 Data engineering enthusiast and on the process of migrating to this area!
 
- - Quality and QMS manager at RFCOM sistemas in Brazil 🇧🇷
+ - Data consultant in Brazil 🇧🇷
  - **in love** with my family 😍
  - guardian of 3 dogs (Swiss sheppard) 🐺 🐺 🐺
 

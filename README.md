@@ -2,7 +2,7 @@
 
 This is Daniel Escosteguy! All good?
 
-I am a **production engineer** 🎓, focused on processes management and currently working as manager of Quality and Quality Management Systems in the defense and telecommunications industry.
+I am a **production engineer** 🎓, focused on processes management and curretly working as a data consultant in telecom.
 
 Data engineering enthusiast and on the process of migrating to this area!
 
@@ -13,7 +13,7 @@ Data engineering enthusiast and on the process of migrating to this area!
 
 **KNOWLEDGE IN**:
 
- - Quality tools 🏅
+ - Data analysis 🏅
  
  - Agile tools 📈
  
@@ -23,11 +23,3 @@ Data engineering enthusiast and on the process of migrating to this area!
  
  - Python <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
- 
-**CURRENTLY STUDING:**
-
- - SQL <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
- 
- - Pandas <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-
- - Microsoft Azure <img widht='25' height='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
